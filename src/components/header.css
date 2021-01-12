@@ -1,0 +1,17 @@
+.header {
+    /* padding: 0px 0px;
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    background: #5900fd; */
+    box-sizing: border-box;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    padding: 1em;
+    margin-bottom: 1em;
+    background-color: rgb(140, 0, 255);
+    color: #fff;
+    font-size: 30px;
+}
